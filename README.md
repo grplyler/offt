@@ -1,4 +1,4 @@
-# FFTO - Fast Fourier Transform for Odin
+# OFFT - Fast Fourier Transform for Odin
 
 A high-performance, in-place FFT library written in Odin, optimized for SDR (Software Defined Radio) applications and real-time signal processing.
 
